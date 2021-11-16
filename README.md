@@ -3,6 +3,7 @@
 - 🌱 I’m learning Ansible, Azure, Docker, and Kubernetes
 - 🧑🏼‍💻 Currently working as a Cybersecurity & Digital Forensics Specialist
 - 🤸🏻‍♂️ In my free time I'm a sportsman and a handstand lover
+-   fans
 - 📫 Get in touch with me at matteo.miglioli95@gmail.com
 
 <!---
